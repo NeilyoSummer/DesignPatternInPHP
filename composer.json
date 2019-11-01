@@ -1,0 +1,16 @@
+{
+    "name": "neilyosummer/design-pattern-php",
+    "authors": [
+        {
+            "name": "neilyosummer",
+            "email": "neilyosummer@163.com"
+        }
+    ],
+    "description": "设计模式PHP实现",
+    "autoload": {
+        "psr-4": {
+            "DesignPattern\\" : "src/"
+        }
+    },
+    "require": {}
+}
