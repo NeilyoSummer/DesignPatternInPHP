@@ -1,1 +1,3 @@
-# DesignPatternInPHP
+# 设计模式 PHP实现
+
+- [x] 单例模式
