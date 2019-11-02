@@ -8,7 +8,7 @@ class ShippableProduct implements Product
      * @var float
      */
     private $productPrice;
-    
+
     /**
      * @var float
      */
