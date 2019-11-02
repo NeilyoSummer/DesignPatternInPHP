@@ -3,7 +3,7 @@
 namespace DesignPattern\Singleton;
 
 /**
- * Singleton 单例模式
+ * Singleton 单例模式，创建型模式
  * 1. 单例模式的类只提供私有的构造函数
  * 2. 类定义中含有一个该类的静态私有对象
  * 3. 类提供了一个静态的公有的函数用于创建或获取它本身的静态私有对象
