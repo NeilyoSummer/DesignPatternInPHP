@@ -1,6 +1,6 @@
 <?php
 
-namespace DesignPattern\Strategy;
+namespace DesignPattern\Behavioral\Strategy;
 
 class StrategyContext
 {
