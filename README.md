@@ -1,15 +1,15 @@
 # 设计模式 PHP实现
 
 ## 创建型模式
-- [x] 单例模式
-- [] 多例模式
-- [] 抽象工厂模式
-- [] 建造者模式
-- [] 工厂方法模式
-- [] 对象池模式
-- [] 原型模式
-- [] 简单工厂模式
-- [] 静态工厂模式
+- [x] 单例模式 Singleton
+- [] 多例模式 Multiton
+- [] 抽象工厂模式 Abstract Factory
+- [] 建造者模式 Builder
+- [] 工厂方法模式 Factory Method
+- [] 对象池模式 Pool
+- [] 原型模式 Prototype
+- [] 简单工厂模式 Simple Factory
+- [] 静态工厂模式 Static Factory
 
 ## 结构型模式
 - [] 适配器模式

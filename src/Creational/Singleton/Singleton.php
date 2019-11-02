@@ -1,6 +1,6 @@
 <?php
 
-namespace DesignPattern\Singleton;
+namespace DesignPattern\Creational\Singleton;
 
 /**
  * Singleton 单例模式，创建型模式
