@@ -16,7 +16,7 @@ class Singleton
 
     private function __construct()
     {
-        // 要加载的相关语句
+        // 要加载的相关语句.
     }
 
     public static function getInstance()
